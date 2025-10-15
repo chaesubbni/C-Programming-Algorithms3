@@ -4,4 +4,4 @@
 ![Data%20Structures](https://img.shields.io/badge/Data%20Structures-455A64?style=for-the-badge)
 
 Algorithms & data structures implemented in C — including 
-**Sort(Bubble Sort, Selection Sort, Insertion Sort)**, **Quick Sort**, **Shell Sort**, **Merge Sort**, **Hashing** **algorithm**
+**Sort(Bubble Sort, Selection Sort, Insertion Sort)**, **Quick Sort**, **Shell Sort**, **Merge Sort** **algorithm**
